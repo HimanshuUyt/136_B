@@ -1,0 +1,19 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.card-header {
+    font-weight: 600;
+}
+
+.btn {
+    border-radius: 8px;
+}
+
+table th {
+    font-weight: 600;
+}
